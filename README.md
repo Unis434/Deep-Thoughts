@@ -8,6 +8,6 @@ A MERN application where users can create an account, post their thoughts for ot
 
 If you have any questions about the project you can reach out to me via email or GitHub with the information below. 
 
->Email: leithen113@gmail.com 
+>Email: unisk434@gmail.com 
 
->GitHub Username: [Thenlie](https://github.com/Thenlie)
+>GitHub Username: [Unis434](https://github.com/Unis434)
